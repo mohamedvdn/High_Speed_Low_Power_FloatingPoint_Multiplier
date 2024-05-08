@@ -1,0 +1,111 @@
+# Reading C:/altera/90/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Top Tb.v} 
+vlib work
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/FP Based on Hybrid Vedic.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module FP_Multiplier_Single_Hybrid
+# 
+# Top level modules:
+# 	FP_Multiplier_Single_Hybrid
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Karastuba Urdhav Multiplier 16.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module New_karastuba_16
+# 
+# Top level modules:
+# 	New_karastuba_16
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Karastuba Urdhav Multiplier.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Karastuba_Urdhau_Multiplier_FP
+# 
+# Top level modules:
+# 	Karastuba_Urdhau_Multiplier_FP
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Top Tb.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Vedic Multiplier 8x8.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Vedic_8_x_8
+# 
+# Top level modules:
+# 	Vedic_8_x_8
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Vedic Multiplier 9x9.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Vedic_9_x_9
+# 
+# Top level modules:
+# 	Vedic_9_x_9
+vsim -gui work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+# vsim -gui work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid 
+# Loading work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+# Loading work.FP_Multiplier_Single_Hybrid
+# Loading work.Karastuba_Urdhau_Multiplier_FP
+# Loading work.New_karastuba_16
+# Loading work.Vedic_8_x_8
+# Loading work.Vedic_9_x_9
+vsim -gui work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+# vsim -gui work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid 
+# Loading work.Floating_Point_Multiplier_Single_Tb_Vedic_hybrid
+# Loading work.FP_Multiplier_Single_Hybrid
+# Loading work.Karastuba_Urdhau_Multiplier_FP
+# Loading work.New_karastuba_16
+# Loading work.Vedic_8_x_8
+# Loading work.Vedic_9_x_9
+# Load canceled
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/FP Based on Hybrid Vedic.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module FP_Multiplier_Single_Hybrid
+# 
+# Top level modules:
+# 	FP_Multiplier_Single_Hybrid
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Karastuba Urdhav Multiplier 16.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module New_karastuba_16
+# 
+# Top level modules:
+# 	New_karastuba_16
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Karastuba Urdhav Multiplier.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Karastuba_Urdhau_Multiplier_FP
+# 
+# Top level modules:
+# 	Karastuba_Urdhau_Multiplier_FP
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Top Tb.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Vedic_hybrid_Tb
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Vedic_hybrid_Tb
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Vedic Multiplier 8x8.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Vedic_8_x_8
+# 
+# Top level modules:
+# 	Vedic_8_x_8
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Hybrid Vedic Multiplier/Vedic Multiplier 9x9.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Vedic_9_x_9
+# 
+# Top level modules:
+# 	Vedic_9_x_9
+vsim -gui work.Floating_Point_Multiplier_Vedic_hybrid_Tb
+# vsim -gui work.Floating_Point_Multiplier_Vedic_hybrid_Tb 
+# Loading work.Floating_Point_Multiplier_Vedic_hybrid_Tb
+# Loading work.FP_Multiplier_Single_Hybrid
+# Loading work.Karastuba_Urdhau_Multiplier_FP
+# Loading work.New_karastuba_16
+# Loading work.Vedic_8_x_8
+# Loading work.Vedic_9_x_9
+add wave -r sim:/Floating_Point_Multiplier_Vedic_hybrid_Tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
